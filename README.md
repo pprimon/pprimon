@@ -7,12 +7,8 @@
 
   <br>
 
-  <a href="https://www.linkedin.com/in/priscila-primon">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" height="28"/>
-  </a>
- <a href="pprimon@live.com">
-    <img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" height="30"/>
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-primon)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pprimon@live.com)
 </div>
 
 <br>
