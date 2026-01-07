@@ -1,38 +1,38 @@
 <div align="center">
 
-  # Olá, eu sou a Priscila Primon 
+  # Hi, I'm Priscila Primon 👋
 
   ### Front-end Engineer
-  *Design Systems • Acessibilidade • React Architecture*
+  *Design Systems • Accessibility • React Architecture*
 
   <br>
 
-  <a href="https://www.linkedin.com/in/priscila-primon" target="_blank">
+  <a href="https://www.linkedin.com/in/priscila-primon-ab9041104" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
+   
   <br>
 
   <img src="https://img.shields.io/badge/Email-pprimon%40live.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="pprimon@live.com"/>
-  
+   
 </div>
 
 <br>
 
 ---
 
-## 👩‍💻 Sobre Mim & Como Atuo
+## 👩‍💻 About Me & How I Work
 
-Sou apaixonada por criar interfaces que unem **engenharia, design e empatia**.
+I am passionate about building interfaces that merge **engineering, design, and empathy**.
 
-Com **+6 anos de experiência**, atuo arquitetando interfaces complexas que equilibram **excelência técnica e usabilidade inclusiva**. Meu foco vai além de escrever linhas de código: gosto de criar **ecossistemas de front-end sustentáveis** e organizados.
+With **+6 years of experience**, I architect complex interfaces that balance **technical excellence and inclusive usability**. My focus goes beyond writing code; I aim to build **sustainable and organized front-end ecosystems**.
 
-Tenho forte atuação em empresas de grande porte, onde participo ativamente da implementação de **Design Systems** e da evangelização de **Acessibilidade (WCAG)** — não apenas como um requisito técnico, mas como parte essencial da cultura de produto.
+I have a strong background in large-scale enterprises, where I actively participate in implementing **Design Systems** and evangelizing **Accessibility (WCAG)** — not just as a technical requirement, but as an essential part of the product culture.
 
-💙 **O que me motiva:**
-* Transformar fluxos complexos em experiências simples.
-* Garantir que a aplicação seja acessível para todos os usuários.
-* Colaborar com times de Design para criar componentes consistentes e bonitos.
+💙 **What drives me:**
+* Transforming complex flows into simple experiences.
+* Ensuring the application is accessible to all users.
+* Collaborating with Design teams to create consistent and beautiful components.
 
 ---
 
@@ -54,7 +54,7 @@ Tenho forte atuação em empresas de grande porte, onde participo ativamente da 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook"/>
 
-**Qualidade & Ferramentas**
+**Quality & Tools**
 <br>
 <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/>
 <img src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="RTL"/>
@@ -65,19 +65,19 @@ Tenho forte atuação em empresas de grande porte, onde participo ativamente da 
 
 ---
 
-## 🚀 Projetos e Soluções
+## 🚀 Projects & Solutions
 
-Alguns exemplos de como aplico arquitetura e boas práticas para resolver problemas reais:
+Some examples of how I apply architecture and best practices to solve real-world problems:
 
-| Contexto | O Desafio & A Solução | Stack |
+| Context | Challenge & Solution | Stack |
 | :--- | :--- | :--- |
-| **🎨 Design System** | **Desafio:** Inconsistência visual e retrabalho nos times.<br>**Solução:** Biblioteca centralizada de componentes versionados, gerando agilidade e padrão visual. | `React` `TS` `Storybook` |
-| **🧩 Extensões MUI** | **Desafio:** Regras de negócio complexas não atendidas pelo padrão.<br>**Solução:** Composição de componentes sobre o Material UI para cenários *Enterprise*. | `MUI` `Context API` |
-| **🧪 Acessibilidade** | **Desafio:** Garantir qualidade de uso para leitores de tela.<br>**Solução:** Repositório de referência com padrões WCAG e testes de acessibilidade automatizados. | `Jest` `RTL` `Axe` |
+| **🎨 Design System** | **Challenge:** Visual inconsistency and team rework.<br>**Solution:** Centralized library of versioned components, boosting agility and visual standardization. | `React` `TS` `Storybook` |
+| **🧩 MUI Extensions** | **Challenge:** Complex business rules not met by standard components.<br>**Solution:** Component composition over Material UI specifically for *Enterprise* scenarios. | `MUI` `Context API` |
+| **🧪 Accessibility** | **Challenge:** Ensuring usage quality for screen readers.<br>**Solution:** Reference repository with WCAG standards and automated accessibility tests. | `Jest` `RTL` `Axe` |
 
 
 ---
 
 <div align="center">
-  <sub>Feito com 💜 por Priscila Primon</sub>
+  <sub>Made with 💜 by Priscila Primon</sub>
 </div>
